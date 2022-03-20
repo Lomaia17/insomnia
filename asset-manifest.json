@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/insomnia/static/css/main.dd58d0a9.css",
+    "main.js": "/insomnia/static/js/main.03ab7088.js",
+    "index.html": "/insomnia/index.html",
+    "main.dd58d0a9.css.map": "/insomnia/static/css/main.dd58d0a9.css.map",
+    "main.03ab7088.js.map": "/insomnia/static/js/main.03ab7088.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd58d0a9.css",
+    "static/js/main.03ab7088.js"
+  ]
+}
